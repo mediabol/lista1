@@ -117,7 +117,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", ESPN (PREMIUM) 
-http://54.39.51.30:25461/c5alcorta/MigueAlcorta/12671
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", TNT SPORTS (ARG) 
 http://54.39.51.30:25461/c5alcorta/MigueAlcorta/19496
