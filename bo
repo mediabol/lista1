@@ -1,0 +1,126 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/unitellogonew.png", UNITEL HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png",RED UNO HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online.png",RED PAT HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png",RED BOLIVISION HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg",RED GIGAVISION HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png", CRYSTAL (SC)
+http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://f9s6p8t8.hostrycdn.com/wp-content/uploads/2022/09/La-red-nacional-DTV-invita-a-los-productores-independientes-enviar.jpg", RED DTV (SC)
+https://master.tucableip.com/dtvsc/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://web1.tikilive.com/public/files/shows/154/154473/43941-294x165-FFFFFF.jpg", SNTV (SC) 
+http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
+http://tv1.mediacp.eu/p/3661/live/rlbpwxvhlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
+http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png", ATB HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg", BOLIVIA TV HD (SC) 
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXHBVqT/Tvlatina.png", TV LATINA (MONTERO)
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwtRnjN/DEPORTE-TOTAL-PLAY-HD.jpg", DEPORTE TOTAL HD
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png", TDT HD (CBBA)
+https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png", MEGATV (BENI)
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg", BOPLUS TV HD
+https://servilive.com:3342/live/boplustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg", SEO TV HD
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg", SEO TV KIDS HD
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgsD31N/MARKVISION-HD.jpg", MARKVISION TV HD
+https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w948858700.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg", F10 HD (EL ALTO)
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/828-8283014_eltrece-logo-eltrece-logo-el-trece.png", EL TRECE HD (ARGENTINA)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcZb31N/el-nueve-hd.jpg", EL NUEVE HD (ARGENTINA)
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2fa04169-2699-4def-b274-0befed696946/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg", NET TV HD (ARGENTINA)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg", ATV HD (PERU)
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg", TV PERU HD (PERU)
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD (MEXICO)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/619apfg5DDL.png", DW ESPAÑOL (INT) 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg", PLANETA TV KIDS HD (INFANTILES)
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w348554768.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg", TELE RITMO HD (MUSICAL)
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png", TELEPACIFICO (COLOMBIA)
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg", ANTARES (PERU)
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", AUTENTICA (PERU)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg", DOBLE C TV (PERU)
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/cropped-logo.png", OK TEVE (PERU)
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png", GENIOS TV (PERU)
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png", OROMAR TV HD (ECUADOR)
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbpQZ3Y/wow-tv-hd.jpg", WOW TV HD
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", ESPN (PREMIUM) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/12671
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", TNT SPORTS (ARG) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/19496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", TYC SPORTS (ARG) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/12027
