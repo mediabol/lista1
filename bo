@@ -26,7 +26,7 @@ https://master.tucableip.com/dtvsc/video.m3u8
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
-http://tv1.mediacp.eu/p/3661/live/rlbpwxvhlive.m3u8
+http://tv1.mediacp.eu/p/3094/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
